@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Bibliographic analysis
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - family-names: Jäckel
+    given-names: Linda
+    orcid: 'https://orcid.org/0000-0002-9994-6554'
+repository-code: 'https://github.com/lindajae/bibliographic-analysis'
+license: GPL-3.0+
+date-released: '2025-06-25'
